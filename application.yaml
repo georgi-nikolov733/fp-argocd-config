@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: git@github.com:georgi-nikolov733/fp-argocd-config.git
-    trargetRevision: HEAD
+    targetRevision: HEAD
     path: dev
   destination:
     server: https://kubernetes.default.svc
