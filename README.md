@@ -1,0 +1,1 @@
+# fp-argocd-config
